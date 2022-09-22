@@ -1,6 +1,6 @@
 ![Screenshot](banneradm.png)
 
-# 🚀 TodoList
+# 🚀 IgniteFeed
 
 Projeto criado para estudo. Objetivo do IgniteFeed e criar publicações rereferente a programação.
 
